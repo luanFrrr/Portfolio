@@ -1,0 +1,55 @@
+{
+    "name": "Luan Ferreira Rosas",
+    "photo": "https://avatars.githubusercontent.com/u/127860789?v=4",
+    "job": "Desenvolvedor Javascript",
+    "location": "Aracaju-SE",
+    "phone": "(79) 99912-2876",
+    "email": "luanrosas@yahoo.com.br",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+              
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        }        
+        
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização",
+        "Aprendizado contínuo"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)"
+        ],
+    "portfolio": [
+      {
+        "name": "Projeto baseado em uma Pokedex",
+        "url": "https://github.com/luanFrrr/pokedex.git",
+        "github": true
+      },
+      {
+        "name": "Fiz uma site voltado para a área de advocacia baseado na
+        aclamada série da Netflix SUITS",
+        "url" "https://github.com/luanFrrr/Meu-Primeiro-Site.git",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Estudante de Análise e Desenvolvimento de sistemas. 3º período",
+        "period": "2022 - até o momento",
+        "description": ""
+      }
+      
+    ]
+  }
